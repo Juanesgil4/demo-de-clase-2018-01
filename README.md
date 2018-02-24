@@ -34,3 +34,8 @@ Este es otro texto. Ejemplo de código en python
 Haga click [aquí](https://www.google.com) para ir a google.
 
 Este es otro texto más.
+
+
+## Sección 4
+
+Esta es una agregación de texto en el archivo readme del Master, modificado desde una rama externa llamada 'Rama-Alterna'
